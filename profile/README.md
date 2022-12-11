@@ -1,5 +1,5 @@
 🔑: [`scathach.id`](https://scathach.id/) | 📝: [`about us`](https://scathach.id/about)
-<a href="https://scathach.id/"><img align="left" src="https://user-images.githubusercontent.com/47995444/206881514-656a3871-ae67-4650-b643-0df378c19cd9.png" width="220"></a>
+<a href="https://scathach.id/"><img align="left" src="https://user-images.githubusercontent.com/47995444/206881514-656a3871-ae67-4650-b643-0df378c19cd9.png" width="230"></a>
 <a href="https://scathach.id/"><img align="right" src="https://user-images.githubusercontent.com/47995444/206881914-fc79c3de-1a63-48a5-87f7-e93764848aec.png" width="200"></a>
 
 <!--
@@ -246,9 +246,7 @@
 ```
 -->
  
-Scathach breaks itself into modules to allow degenerate users to interact with our API at lower levels where just chillin invoke every single commands or adding optional parameter such as bulk requests, search behaviour, automated commands, send or troll to another users, all commands can be disable or enable.  
-
-[ScathachPRO](https://scathach.id/pro) is an optional paid upgrade that decreases limits.  
+Scathach breaks itself into modules to allow degenerate users to interact with our API at lower levels where just chillin invoke every single commands or adding optional parameter such as bulk requests, search behaviour, automated commands. [ScathachPRO](https://scathach.id/pro) is an optional paid upgrade that decreases limits. 
 
 <div align="center">
 
