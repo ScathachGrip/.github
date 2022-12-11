@@ -1,5 +1,5 @@
 🔑: [`scathach.id`](https://scathach.id/) | 📝: [`about us`](https://scathach.id/about)
-<a href="https://scathach.id/"><img align="right" src="https://user-images.githubusercontent.com/47995444/206881914-fc79c3de-1a63-48a5-87f7-e93764848aec.png" width="220"></a>
+<a href="https://scathach.id/"><img align="right" src="https://user-images.githubusercontent.com/47995444/206881914-fc79c3de-1a63-48a5-87f7-e93764848aec.png" width="200"></a>
 
 <!--
 ```
