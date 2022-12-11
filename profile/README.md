@@ -1,5 +1,5 @@
 🔑: [`scathach.id`](https://scathach.id/) | 📝: [`about us`](https://scathach.id/about)
-<a href="https://scathach.id/"><img align="left" src="https://user-images.githubusercontent.com/47995444/206881514-656a3871-ae67-4650-b643-0df378c19cd9.png" width="230"></a>
+<a href="https://scathach.id/"><img align="left" src="https://user-images.githubusercontent.com/47995444/206881514-656a3871-ae67-4650-b643-0df378c19cd9.png" width="240"></a>
 <a href="https://scathach.id/"><img align="right" src="https://user-images.githubusercontent.com/47995444/206881914-fc79c3de-1a63-48a5-87f7-e93764848aec.png" width="200"></a>
 
 <!--
@@ -247,7 +247,7 @@
 -->
  
 Scathach breaks itself into modules to allow degenerate users to interact with our API at lower levels where just chillin invoke every single commands or adding optional parameter such as bulk requests, search behaviour, automated commands. [ScathachPRO](https://scathach.id/pro) is an optional paid upgrade that decreases limits. 
-
+<br><br>
 <div align="center">
 
 [![Bitcoin](https://img.shields.io/badge/-Crypto-gold?logo=bitcoin&logoColor=white)](https://sinkaroid.github.io/crypto.txt) [![ScathachGrip](https://img.shields.io/discord/831142227676889088)](https://discord.gg/8wj4vM5hHM) [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dscathach_bot%26type%3Dpledges&style=flat)](https://patreon.com/scathach_bot) [![Twitter](https://img.shields.io/twitter/follow/sinkaroid?label=Follow&style=social)](https://twitter.com/sinkaroid)
