@@ -2,7 +2,7 @@
 
 ## Get Involved
 
-Scathach breaks itself into modules to allow users to interact with our API at lower levels or adding optional parameter such as bulk requests, imagebomb, search behaviour, and automated commands. 
+Scathach is a Discord bot that provides various features. The most comprehensive Discord nsfw bots. Its goal is to help users take advantage of top-notch features and make their Discord more wet, wild, and wonderful.  
 
 * [Explore third party libraries](https://pypi.org/user/sinkaroid/)
 * [Node SDK for interacting with Scathach](https://sinkaroid.github.io/scathach-api/)
