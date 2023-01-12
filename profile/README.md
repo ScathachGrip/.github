@@ -13,4 +13,4 @@ Visit [scathach.id](https://scathach.id/) to learn more!
 
 ----
 
-ScathachGrip / Scathach bot is not affiliated with [fate-go](https://fate-go.us/) nor [Type-Moon](https://typemoon.fandom.com/) in any way.
+ScathachGrip / Scathach bot is not affiliated with [fate-go](https://fate-go.us/) nor [Type-Moon](https://typemoon.fandom.com/) in any way. For privacy information see the [Legal](https://scathach.id/legal).
