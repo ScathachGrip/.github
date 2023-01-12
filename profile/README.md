@@ -7,6 +7,7 @@ Scathach breaks itself into modules to allow users to interact with our API at l
 * [Explore third party libraries](https://pypi.org/user/sinkaroid/)
 * [Node SDK for interacting with Scathach](https://sinkaroid.github.io/scathach-api/)
 * [Project and collaborations with Scathach](https://scathach.id/partners)
+* [Purchase the microservice and its affiliated](https://www.patreon.com/checkout/scathach_bot/7767699)
 * [Purchase PRO to keep Scathach online and fund development](https://scathach.id/pro)
 
 Visit [scathach.id](https://scathach.id/) to learn more!
