@@ -1,4 +1,4 @@
-![Open Source at Scathach](https://cdn.discordapp.com/attachments/1046495201176334467/1062920007216021525/sca-gh.jpg) 
+![Open Source at Scathach](https://status.scathachbot.xyz/header.jpg) 
 
 ## Get Involved
 
@@ -10,7 +10,7 @@ Scathach is a Discord bot that provides various features. The most comprehensive
 * [Purchase the microservice and its affiliated](https://www.patreon.com/checkout/scathach_bot/7767699)
 * [Purchase PRO to keep Scathach online and fund development](https://scathachbot.xyz/pro)
 
-Visit [https://scathachbot.xyz](https://scathachbot.xyz) to learn more!
+Visit [https://scathachbot.xyz](https://scathachbot.xyz) to learn more.
 
 ----
 
